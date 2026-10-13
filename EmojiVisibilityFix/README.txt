@@ -6,10 +6,8 @@ Install:
 Download the Zipped File and extract it. you are reading this
 so you already probably did it, then when you extract it, go to
 chrome://extensions and turn on developer mode, press load unpacked
-and then choose the Zipped File, but dont actually
-like confirm it, - i dont think the actual zip file will show up,
-just the one that was extracted - then inside of Zipped File,
-Select and confirm the EmojiVisibilityFix file. then it should work.
+and then double click the Zipped File, just the one that was extracted, wont be the actual .zip file
+then inside of Zipped File, Select and confirm the EmojiVisibilityFix file. then it should work.
 
 - DO NOT DELETE THE IMAGES OR CHANGE THE NAME OF THEM,
 If you want to change the look of the emojis,

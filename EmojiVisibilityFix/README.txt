@@ -3,12 +3,13 @@ Windows 10 Emoji Fix
 Theres a bunch of repeated lines in this, but idgaf, more information about ts
 
 Install:
-1. Go to Chrome, open: chrome://extensions
-2. Turn on Developer mode (top-right).
-3. Click "Load unpacked".
-4. Select EmojiVisibilityFix.
-5. If it doesn't show up in the extension list, try adding it again.
-6. Reload the webpage where the emojis were a " [] "
+Download the Zipped File and extract it. you are reading this
+so you already probably did it, then when you extract it, go to
+chrome://extensions and turn on developer mode, press load unpacked
+and then choose the Zipped File, but dont actually
+like confirm it, - i dont think the actual zip file will show up,
+just the one that was extracted - then inside of Zipped File,
+Select and confirm the EmojiVisibilityFix file. then it should work.
 
 - DO NOT DELETE THE IMAGES OR CHANGE THE NAME OF THEM,
 If you want to change the look of the emojis,

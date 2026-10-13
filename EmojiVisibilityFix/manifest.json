@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Emoji Visibility Fix",
+  "version": "2.0",
+  "description": "Fixes the Windows 10 problem of there not having most used emojis",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "U+1F979.png", 
+        "U+1FAE0.png",
+        "U+1FAE1.png",
+        "U+1FA77.png",
+        "U+1FAE9.png"
+
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}
